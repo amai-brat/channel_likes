@@ -1,4 +1,3 @@
-## Parse YouTube playlist for unavailable video
 Install python.  
 Clone this repo.  
 Install geckodriver from [here](https://github.com/mozilla/geckodriver/releases) or pacman (if I'm using Arch Linux btw). Extract and put his directory to PATH.  
